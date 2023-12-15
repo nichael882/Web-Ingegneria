@@ -1,0 +1,15 @@
+#Dobbiamo trovare un nome per questa cosa
+
+Analisi dei requisiti:
+La piattaforma è stata pensata per tenere traccia delle serie tv e dei film che si stanno guardando,
+per tenere traccia di quelli già visti e di quelli che si vorrebbero vedere oltre a poter parteciare a discussioni con altri utenti.
+Il sistema consente agli utenti di inserire nella propria area riservata i contenuti a cui si è interessati.
+Gli utenti possono recensire, commentare e creare delle liste personalizzate.
+Il sistema consente di registrarsi e di accedere con le proprie credenziali.
+Tutti gli utenti registrati possono accedere alla propria area riservata e modificare i propri dati
+mentre i visitors sono limitati alla sola visualizzazione.
+Gli admin sono dei super utenti che possono accedere alla sezione admin e gestire i contenuti e gli utenti.
+L'applicazione consente di visualizzare la trama del contenuto, una locandina, una lista dei personaggi con relativi interpreti,
+una lista degli episodi con titolo, trama, data di uscita e durata ed il regista.
+L'app invia notifiche agli utenti quando esce un nuovo episodio di una serie tv che stanno seguendo.
+L'app inoltre offre dei collegamenti ad altre piattaforme per guardare o acquistare il contenuto.
